@@ -181,26 +181,124 @@ Para poner en practica cada uno de los conocimientos adquiridos realizamos una g
 
 ### 3.2 EJERCICIOS CAPITULO 6.
 
+1.- Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+
+![image](https://user-images.githubusercontent.com/105298935/172098533-8cf127ca-bce1-4600-8f96-a66ed21a1d35.png)
+
+
+2.- ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Æ? Hay cuatro resistores, todos de igual valor.
+
+
+3.- ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
+
+![image](https://user-images.githubusercontent.com/105298935/172098627-eaeca12d-aaca-41bb-b0cd-4be7254be520.png)
+
+
+
+4.- ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/105298935/172098675-49ab51bf-cc68-4aa3-b108-1bfab6cb62c3.png)
+
+
+
+5.- Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+
+6.- En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
+
+
+7.- Los siguientes resistores están conectados en paralelo: 1.0 MÆ, 2.2 MÆ, 5.6 MÆ, 12 MÆ, y 22 MÆ. Determine la resistencia total.
+
+
+8.- Calcule RT en cada uno de los circuitos de la figura 6-70.
+
+![image](https://user-images.githubusercontent.com/105298935/172098800-6c3fb9ca-22f6-43ee-a323-03c7a359797c.png)
+
+
+9.- Tres grupos, uno de cinco resistores de 470 Æ, otro de diez resistores de 100 Æ, y uno más de dos resistores de 100 Æ están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
+
+
+10.- Si la resistencia total en la figura 6-71 es de 389.2 Æ, ¿cuál es el valor de R2?
+
+![image](https://user-images.githubusercontent.com/105298935/172099075-d658ff87-7424-4411-a7b0-db9271072578.png)
+
+
+
+11.- ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+![image](https://user-images.githubusercontent.com/105298935/172099503-ebf0caa9-f7a1-4748-a41f-0888cca178c0.png)
+
+
+
+12.- Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+
+
+13.- Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
+
+![image](https://user-images.githubusercontent.com/105298935/172099568-db4b94b1-6555-45c1-9ede-691313906e10.png)
+
+
+
+14.- Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+
+![image](https://user-images.githubusercontent.com/105298935/172099624-6d47b74d-b756-45f4-8c30-7d939d6693af.png)
+
+
+
+15.- Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78
+
+![image](https://user-images.githubusercontent.com/105298935/172099699-4decbd25-e949-4d71-a364-aded57b042dc.png)
+
+
+16.- ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+![image](https://user-images.githubusercontent.com/105298935/172099730-c567f35f-c496-49da-ae90-911a3bb22e02.png)
+
+
+
+17.- ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
+
+![image](https://user-images.githubusercontent.com/105298935/172099772-f16f9eb2-77cb-40a9-b113-bb73015f9098.png)
+
+
+18.- (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si
+la resistencia del movimiento de medidor es de 50 Æ.
+
+(b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM = 50 Amp).
+
+
+
+19.- Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+
+20.- Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
+
+21.- Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2W. La resistencia total es de 1.0 kÆ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
+(a) El número de resistores 
+(b) El valor de cada resistor
+(c) La corriente en cada rama 
+(d) El voltaje aplicado
 
 
 
 
+22.- En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
+
+![image](https://user-images.githubusercontent.com/105298935/172099988-381c83c0-95a2-4238-8247-10dc93f3efa4.png)
 
 
+23.- ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 Mamp?
+
+![image](https://user-images.githubusercontent.com/105298935/172100056-5a56e6de-f094-4adc-a587-b9ada4c2b1ea.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+24.- Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
+(a) 1 y 2 
+(b) 2 y 3 
+(c) 3 y 4 
+(d) 1 y 4
 
 
 
@@ -224,8 +322,3 @@ Para poner en practica cada uno de los conocimientos adquiridos realizamos una g
 ## 6.- BIBLIOGRAFIA.
 
 Floyd, T. (2007). Principios de Circuitos Eléctricos octava edicion. México: Pearson Educación: http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
-
-
-
-
-
