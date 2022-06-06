@@ -38,22 +38,44 @@ Para poner en practica cada uno de los conocimientos adquiridos realizamos una g
 
 ![image](https://user-images.githubusercontent.com/105298935/172095196-cf5747bf-a4b1-4131-a438-67ab742c3455.png)
 
+Los resistores que se encuentran conectados en serie son el Resistor numero 6, 8 y 12
+
+Para lograr colocar este circuito en serie se deve de realizar las siguientes conecciones:
+- La punta de resistor 8 con la punta del resistor 7
+- La Punta del resistor 4 con la punta del resistor 5
+- La punta del resistor 2 con la punta del resistor 6
+Una vez realizadas estas conecciones logramos obtener un circuito en serie.
 
 2.- Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68
+
+![image](https://user-images.githubusercontent.com/105298935/172175576-4fcd1b5c-e7c2-4e14-9010-53d2a95b7aba.png)
+
+La resistencia nominal es igual a las sumas de todos los resistores presentes en este tramo:
+Resistencia nomilnal: R12 + R8 + R6
 
 
 3.- ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Amperios?
 
+![image](https://user-images.githubusercontent.com/105298935/172181084-1abd7642-16b5-48ed-b052-24ea4767548a.png)
+
 
 4.- Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
 
+![image](https://user-images.githubusercontent.com/105298935/172181796-a5506110-1f85-4163-909a-6b423a6ad3db.png)
+
+A todas las resistencias se les puede medir de esta forma.
+
 
 5.- Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Amp, 2.2 Amp, 5.6 Amp,12 Amp, y 22 Amp. Determine la resistencia total.
+
+![image](https://user-images.githubusercontent.com/105298935/172182358-d183926e-d1e9-43ea-937e-c75950932595.png)
 
 
 6.- Calcule la RT en cada circuito de la figura 5-71.
 
 ![image](https://user-images.githubusercontent.com/105298935/172095465-87d44fef-f094-4b44-99f3-4b7f3c759f33.png)
+
+![image](https://user-images.githubusercontent.com/105298935/172183489-1e49e8aa-9389-4d33-89d3-ec61ac05e265.png)
 
 
 7.- Se conectan en serie seis resistores de 56 Æ, ocho de 100 Æ, y dos de 22 Æ. ¿Cuál es la resistencia total?
