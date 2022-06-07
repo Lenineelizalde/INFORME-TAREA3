@@ -80,125 +80,167 @@ A todas las resistencias se les puede medir de esta forma.
 
 7.- Se conectan en serie seis resistores de 56 Æ, ocho de 100 Æ, y dos de 22 Æ. ¿Cuál es la resistencia total?
 
+![image](https://user-images.githubusercontent.com/105298935/172243121-ab4b4b78-0c3c-4a62-b6c0-94c9735ed177.png)
+
 
 8.- Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ohm, 100 Ohm, 470 Ohm, 560 Ohm, 680 Ohm, 1.0 Khm, 2.2 Khm, y 5.6 Hhm. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 Khm. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
 
+Las resistencias que se deveria usar son las de: 100Ω, 470Ω, 560Ω, 680Ω y la de 1kΩ
 
 9.- En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 
 ![image](https://user-images.githubusercontent.com/105298935/172095693-c9e8758b-530a-4288-b839-97e9a6e60b57.png)
+
+![image](https://user-images.githubusercontent.com/105298935/172243911-96b22c08-4c31-4075-a72a-f7f6f66b591b.png)
 
 
 10.- Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
 
 ![image](https://user-images.githubusercontent.com/105298935/172095794-7f2a8976-d3d0-40d2-9a18-07e8744150d6.png)
 
+![image](https://user-images.githubusercontent.com/105298935/172245865-50216e49-cf2a-40f7-b986-5c313ce7efcb.png)
+
 
 11.- Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
+
+![image](https://user-images.githubusercontent.com/105298935/172247114-0cac59a8-2d7e-49a0-9bef-4a4cbe42b0e9.png)
 
 
 12.- Determine VR1, R2 y R3 en la figura 5-76.
 
 ![image](https://user-images.githubusercontent.com/105298935/172095863-bb617ca5-aeec-4d5c-bd20-23b73f8772ac.png)
 
+![image](https://user-images.githubusercontent.com/105298935/172283583-8be4c0a9-fdc4-49c9-8f4e-49d6f7f72cfe.png)
+
 
 13.- Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
 
 ![image](https://user-images.githubusercontent.com/105298935/172095917-3bf88afa-e667-494b-8b48-d0b61d208546.png)
 
+![image](https://user-images.githubusercontent.com/105298935/172283905-39a6d619-2ae6-41f1-b042-2a4dd5c5951e.png)
 
 
 14.- El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
 
+![image](https://user-images.githubusercontent.com/105298935/172284098-adcf0ee2-d6e2-4978-8c3a-cf1ee2a487be.png)
 
 
 15.- Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
+
+![image](https://user-images.githubusercontent.com/105298935/172284415-bce7c27b-fa1d-4486-8bbe-ecd70992e465.png)
 
 
 16.- Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
 
 ![image](https://user-images.githubusercontent.com/105298935/172096037-5054c4de-b6c1-43f5-bb64-2db6b7b1ec05.png)
 
+![image](https://user-images.githubusercontent.com/105298935/172285303-4b5b1166-21dc-45c6-a6e6-f4a7b1e7140f.png)
 
 
 17.- Encuentre R1, R2 y R3 en la figura 5-82.
 
 ![image](https://user-images.githubusercontent.com/105298935/172096081-db9accef-5730-489f-bfe9-fc7cf9efe9ea.png)
 
+![image](https://user-images.githubusercontent.com/105298935/172285984-79bbcd9e-f174-4179-b326-d842dafb1d4f.png)
+
 
 18.- Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
 
 ![image](https://user-images.githubusercontent.com/105298935/172096143-782df7a2-24ea-408c-a5c1-6c266713379f.png)
 
+![image](https://user-images.githubusercontent.com/105298935/172286219-7a916933-d227-4f0b-b2bc-768054a5a78f.png)
 
 
 19.- Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
 
 ![image](https://user-images.githubusercontent.com/105298935/172096218-8bbed307-ec81-42ea-b74c-3d57e3f83436.png)
 
+![image](https://user-images.githubusercontent.com/105298935/172286596-8a5b24c9-1555-4ece-9377-015dab56d0f4.png)
 
 
 20.- Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
 
 ![image](https://user-images.githubusercontent.com/105298935/172096267-e1af6234-261e-401a-8930-6e9635e38712.png)
 
+![image](https://user-images.githubusercontent.com/105298935/172286877-fa6a631b-b63f-46b8-9686-d73c57532bd4.png)
 
 
 21.- En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
 
 ![image](https://user-images.githubusercontent.com/105298935/172096314-14422fdb-a1ee-436a-b09a-1e9ec659d1a0.png)
 
+![image](https://user-images.githubusercontent.com/105298935/172287674-afb55a46-7360-4cbf-9b65-22973c2a1a66.png)
 
 
 22.- Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V, y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
 
+![image](https://user-images.githubusercontent.com/105298935/172287929-4ad26926-c9ed-460e-9bbd-79fc1d7ffccf.png)
 
 
 23.- Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
 
+![image](https://user-images.githubusercontent.com/105298935/172288237-1ed34d67-5ff6-4c96-8e17-c1c5afc158f7.png)
 
 
 24.- Los siguientes resistores de 1⁄4Westán dispuestos en serie: 1.2 kÆ, 2.2 kÆ, 3.9 kÆ, y 5.6 kÆ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
 
+![image](https://user-images.githubusercontent.com/105298935/172288742-da43c1a7-8ba9-45e1-a722-1e3bf6e48e05.png)
+
+El resistor que se quemara es el resistor que supere 1.2V
+
 
 25.- Cierto circuito en serie se compone de un resistor de 1⁄8W, un resistor de 1⁄4W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Æ. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:
 (a) I (b) VT (c) El valor de cada resistor
+
+![image](https://user-images.githubusercontent.com/105298935/172289493-0dcc73a9-5157-4a17-9ad3-bc400b3ac810.png)
 
 
 26.- En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
 
 ![image](https://user-images.githubusercontent.com/105298935/172096616-55a23860-5f21-414e-9caa-503b213fcf12.png)
 
+![image](https://user-images.githubusercontent.com/105298935/172289790-3dcc5154-6698-493e-9b23-afc7f3e0676a.png)
 
 
 27.- Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
 
 ![image](https://user-images.githubusercontent.com/105298935/172096714-2f573ba3-7d3d-40d4-acc4-d49aee51d287.png)
 
-
-
 ![image](https://user-images.githubusercontent.com/105298935/172096750-720ca3b8-eb17-48e5-9ac0-e3d455916a35.png)
 
+Puede existir algun elementp sin conectar e incluso puede ser la funtes la que se encuentre con problemas de conexion 
+Se medira 12V en R2 ya que en este caso no existe ninguna caida de voltaje.
 
 
 28.- ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
 
 ![image](https://user-images.githubusercontent.com/105298935/172096974-4ccaf3dd-38e6-4dcd-82a8-d855b67cca8e.png)
 
+En esta figura la unica corriente que mediria es la corriemte de R1
+
 
 29.- Se leen 15 kÆ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
 
+Si es un problema debido a que una abertura de este circuito se puede crear por un interruptor o por algun inconveniendo con uno de los componentes.
+
 
 30.- Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W.
-(a) ¿Qué sucedió?
-(b) Específicamente, ¿qué debe hacerse para arreglar el problema?
-(c) ¿Con qué voltaje ocurrió la falla?
 
 ![image](https://user-images.githubusercontent.com/105298935/172097184-8fcbcd8e-5ae1-4440-a778-7e90a4a73e13.png)
 
+(a) ¿Qué sucedió?
 
+Sucedio que se a generado una apertura en un resistor
 
+(b) Específicamente, ¿qué debe hacerse para arreglar el problema?
 
+Primeramente se debe de localizar la resistencia que se encuentre abierta, para realizar esto se debe utilizar un multimetro y realizar mediciones.
+
+(c) ¿Con qué voltaje ocurrió la falla?
+
+![image](https://user-images.githubusercontent.com/105298935/172291113-d1f01c23-72ca-4e38-aa09-1df9e7015445.png)
+
+La falla ocurrio con un voltaje de 24V en un resistor abierto y en el cerrado ocurrio con 0V
 
 
 ### 3.2 EJERCICIOS CAPITULO 6.
