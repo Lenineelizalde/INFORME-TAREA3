@@ -204,11 +204,7 @@ El resistor que se quemara es el resistor que supere 1.2V
 
 27.- Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
 
-![image](https://user-images.githubusercontent.com/105298935/172096714-2f573ba3-7d3d-40d4-acc4-d49aee51d287.png)
-
-![image](https://user-images.githubusercontent.com/105298935/172096750-720ca3b8-eb17-48e5-9ac0-e3d455916a35.png)
-
-Puede existir algun elementp sin conectar e incluso puede ser la funtes la que se encuentre con problemas de conexion 
+Puede existir algun elemento sin conectar e incluso puede ser la funtes la que se encuentre con problemas de conexion 
 Se medira 12V en R2 ya que en este caso no existe ninguna caida de voltaje.
 
 
