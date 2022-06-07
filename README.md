@@ -376,7 +376,7 @@ Pienso que esta mal colocadas las puntas al realizar la medicion debido a esto s
 
 ## 4.- VIDEO.
 
-
+https://youtu.be/WB_wJGFS_9E
 
 ## 5.- CONCLUSIONES.
 - Aprendimos a analizar el orden correcto de resistores en circuitos tanto en paralelo como circuitos en serie.
