@@ -341,55 +341,37 @@ Si estan conectados en paralelo debido a que tiene mas de una trayectoria para l
 
 ![image](https://user-images.githubusercontent.com/105298935/172099730-c567f35f-c496-49da-ae90-911a3bb22e02.png)
 
+![image](https://user-images.githubusercontent.com/105298935/172305845-57831362-4d8f-4e12-a601-66022c5a287e.png)
 
 
 17.- ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
 
 ![image](https://user-images.githubusercontent.com/105298935/172099772-f16f9eb2-77cb-40a9-b113-bb73015f9098.png)
 
-
-18.- (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si
-la resistencia del movimiento de medidor es de 50 Æ.
-
-(b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM = 50 Amp).
-
+![image](https://user-images.githubusercontent.com/105298935/172306287-8f1a985e-9561-4185-ae31-791537ad0c4c.png)
 
 
 19.- Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
 
+![image](https://user-images.githubusercontent.com/105298935/172306909-86b645a1-7094-4095-805e-8995295bba0c.png)
+
 
 20.- Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 
-
-21.- Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2W. La resistencia total es de 1.0 kÆ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
-(a) El número de resistores 
-(b) El valor de cada resistor
-(c) La corriente en cada rama 
-(d) El voltaje aplicado
-
-
+![image](https://user-images.githubusercontent.com/105298935/172307621-76d9ebdd-2db4-43df-a0dc-3140003d37e2.png)
 
 
 22.- En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 
 ![image](https://user-images.githubusercontent.com/105298935/172099988-381c83c0-95a2-4238-8247-10dc93f3efa4.png)
 
+Si se a abierto el resistor numero 5.
 
 23.- ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 Mamp?
 
 ![image](https://user-images.githubusercontent.com/105298935/172100056-5a56e6de-f094-4adc-a587-b9ada4c2b1ea.png)
 
-
-24.- Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
-(a) 1 y 2 
-(b) 2 y 3 
-(c) 3 y 4 
-(d) 1 y 4
-
-
-
-
-
+Pienso que esta mal colocadas las puntas al realizar la medicion debido a esto se presenta una mayor resistencia y como resultado nos un una corriente mas baja.
 
 
 ## 4.- VIDEO.
